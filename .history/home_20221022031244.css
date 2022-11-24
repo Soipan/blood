@@ -1,0 +1,7 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75)),url(donation.png);
+    background-size: cover;
+    background-position: center;
+}
